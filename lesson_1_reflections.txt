@@ -8,3 +8,12 @@ This can help to play with my code without any worries.
 git log --stat
 git init
 git status
+git diff
+git diff --staged
+git checkout master
+git brach
+git checkout sub-branch
+git show
+git branch -d coin
+git show commitId
+git checkout master then git merge master branch
